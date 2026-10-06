@@ -14,6 +14,3 @@ host-suffix, ibkr.com, direct
 host-suffix, ibkrguides.com, direct
 host-keyword, interactivebrokers, direct
 host-keyword, ibkr, direct
-#Crypto add
-host-suffix, bnbstatic.com, 台湾
-HOST-SUFFIX, BINANCE.COM, 台湾
