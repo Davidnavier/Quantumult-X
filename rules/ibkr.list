@@ -1,0 +1,19 @@
+# IBKR精确分流——放在最前面
+host, www.interactivebrokers.ie, direct
+host-suffix, interactivebrokers.com, direct
+host-suffix, interactivebrokers.ie, direct
+host-suffix, interactivebrokers.eu, direct
+host-suffix, interactivebrokers.com.hk, direct
+host-suffix, interactivebrokers.com.au, direct
+host-suffix, interactivebrokers.com.sg, direct
+host-suffix, interactivebrokers.co.uk, direct
+host-suffix, interactivebrokers.ca, direct
+host-suffix, interactivebrokers.co.jp, direct
+host-suffix, interactivebrokers.co.in, direct
+host-suffix, ibkr.com, direct
+host-suffix, ibkrguides.com, direct
+host-keyword, interactivebrokers, direct
+host-keyword, ibkr, direct
+#Crypto add
+host-suffix, bnbstatic.com, 台湾
+HOST-SUFFIX, BINANCE.COM, 台湾
